@@ -1,1 +1,1 @@
-ECHO is on.
+Playing around with spotify's api in R
